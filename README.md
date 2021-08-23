@@ -9,6 +9,7 @@ This is intended for the following purposes:
 - Testing maps and other things
 - Possibly making mods
 
-Precompiled client libraries for https://github.com/FWGS/cs16-client/tree/v1.32
+Precompiled client libraries for https://github.com/FWGS/cs16-client/tree/v1.33
+
 Server library is available at https://github.com/s1lentq/ReGameDLL_CS/releases/
 

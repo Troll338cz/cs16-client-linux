@@ -10,9 +10,6 @@ This is intended for the following purposes:
 
 ~~Precompiled client libraries for https://github.com/FWGS/cs16-client/tree/v1.33~~
 
-Copy of old FWGS repo with minor touches 
-
-
 
 Server library sources are available at https://github.com/s1lentq/ReGameDLL_CS/releases/
 
